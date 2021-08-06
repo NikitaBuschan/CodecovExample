@@ -5,4 +5,3 @@ sudo: required
 script:
   - dotnet restore
   - dotnet build
-.\codecov -f "MyProject_coverage.xml" -t <62ece7e0-0235-4543-9ec6-3277e5931647>
