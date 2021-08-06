@@ -1,6 +1,6 @@
 # [Codecov](https://codecov.io) C# Example
 
-[![codecov](https://codecov.io/gh/codecov/example-csharp/branch/master/graph/badge.svg)](https://codecov.io/gh/codecov/example-csharp)
+[![codecov](https://codecov.io/gh/NikitaBuschan/dddd/branch/main/graph/badge.svg?token=QR61L09HL1)](https://codecov.io/gh/NikitaBuschan/dddd)
 [![AppVeyor](https://img.shields.io/appveyor/ci/stevepeak/example-csharp.svg)](https://ci.appveyor.com/project/stevepeak/example-csharp/branch/master)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fexample-csharp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fexample-csharp?ref=badge_shield)
 
